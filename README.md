@@ -3,6 +3,7 @@
 - JavaScript
 - PHP 8
 - C / C++
+- Motorala MC68000 Assembly Language
   
 ### Technologies, Frameworks, Libraries:
 
