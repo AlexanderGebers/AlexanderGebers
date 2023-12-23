@@ -24,6 +24,7 @@
 ### Other
 
 - Linux (Rocky-Linux, CentOS, Ubuntu, Fedora, Mint, LibreElec)
+- REST API
 - Apache SolR
 - Apache Webserver
 - Docker for local LAMP-Stack development (PHP, Laravel, Docker-Desktop, WSL2 Windows 10/11)
