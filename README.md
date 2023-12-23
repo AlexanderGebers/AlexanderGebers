@@ -13,7 +13,7 @@
 - Laravel
 - React
 - Oracle APEX
-- SDL2 (Simple Direct Layer) for hobby purposes
+- SDL2 (Simple Direct Layer) in my sparetime
   
 ### Database
 
