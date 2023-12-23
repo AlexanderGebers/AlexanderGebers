@@ -11,6 +11,7 @@
 - a little bit Tailwind CSS
 - Laravel
 - React
+- Oracle APEX
   
 ### Databases
 
