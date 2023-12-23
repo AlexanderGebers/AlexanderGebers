@@ -13,7 +13,7 @@
 - Laravel
 - React
 - Oracle APEX
-- SDL2 (Simple Direct Layer) in my sparetime
+- SDL2 (multi crossplatform media library C, C++) in my sparetime
   
 ### Database
 
