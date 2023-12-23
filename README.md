@@ -21,7 +21,7 @@
 
 ### Other
 
-- Linux (Rocky-Linux, CentOS, Ubuntu, Fedora)
+- Linux (Rocky-Linux, CentOS, Ubuntu, Fedora, Mint, LibreElec)
 - Apache SolR
 - Apache Webserver
 - Docker for local development (Docker-Desktop, WSL2 Windows 10/11)
