@@ -13,7 +13,7 @@
 - React
 - Oracle APEX
   
-### Databases
+### Database
 
 - SQL (MariaDB)
 - Oracle SQL
