@@ -24,4 +24,4 @@
 - Linux (Rocky-Linux, CentOS, Ubuntu, Fedora)
 - Apache SolR
 - Apache Webserver
-- Docker for local development (Docker-Desktop)
+- Docker for local development (Docker-Desktop, WSL2 Windows 10/11)
