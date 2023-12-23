@@ -25,4 +25,4 @@
 - Apache SolR
 - Apache Webserver
 - Docker for local development (Docker-Desktop, WSL2 Windows 10/11)
-- Oracle Virtual-Box
+- Oracle Virtual-Box for virtualisation
