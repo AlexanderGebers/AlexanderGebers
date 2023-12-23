@@ -7,6 +7,8 @@
 ### Technologies, Frameworks, Libraries:
 
 - HTML / CSS
+- Bootstrap CSS
+- a little bit Tailwind CSS
 - Laravel
 - React
   
