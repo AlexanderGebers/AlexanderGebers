@@ -9,9 +9,7 @@ I´m Alex and interested in application development for the web.
   
 ### Technologies, Frameworks, Libraries:
 
-- HTML / CSS
-- Bootstrap CSS
-- a little bit Tailwind CSS
+- HTML / CSS, Bootstrap CSS, a little bit Tailwind CSS
 - Laravel
 - React
 - PhaserJS
