@@ -6,8 +6,6 @@ I´m Alex and interested in application development for the web.
 
 - JavaScript
 - PHP 8
-- C / C++
-- Motorala MC68000 Assembly Language
   
 ### Technologies, Frameworks, Libraries:
 
@@ -16,8 +14,8 @@ I´m Alex and interested in application development for the web.
 - a little bit Tailwind CSS
 - Laravel
 - React
+- PhaserJS
 - Oracle APEX
-- SDL2 (multi crossplatform media library C, C++) in my sparetime
   
 ### Database
 
