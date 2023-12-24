@@ -1,3 +1,7 @@
+Hi!
+
+I´m Alex and interested in application development for the web.
+
 ### Programming-Languages:
 
 - JavaScript
