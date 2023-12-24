@@ -25,7 +25,7 @@
 
 - Linux (Rocky-Linux, CentOS, Ubuntu, Fedora, Mint, LibreElec)
 - REST API
-- Apache SolR
+- Apache Solr
 - Apache Webserver
 - Docker for local LAMP-Stack development (PHP, Laravel, Docker-Desktop, WSL2 Windows 10/11)
-- Oracle Virtual-Box for virtualisation in my sparetime (running virtual machines in the home network)
+- Oracle Virtual-Box for virtualisation in my sparetime (running virtual machines within the home network)
