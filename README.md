@@ -6,14 +6,16 @@ I´m Alex and interested in application development for the web.
 
 - JavaScript
 - PHP 8
+- C / C++ (in my sparetime)
   
 ### Technologies, Frameworks, Libraries:
 
 - HTML / CSS, Bootstrap CSS, a little bit Tailwind CSS
+- Oracle APEX
 - Laravel
 - React
-- PhaserJS
-- Oracle APEX
+- PhaserJS (in my sparetime)
+- SDL2 (Simple Direct Media Layer) (in my sparetime)
   
 ### Database
 
@@ -28,4 +30,4 @@ I´m Alex and interested in application development for the web.
 - Apache Solr
 - Apache Webserver
 - Docker for local LAMP-Stack development (PHP, Laravel, Docker-Desktop, WSL2 Windows 10/11)
-- Oracle Virtual-Box for virtualisation in my sparetime (running virtual machines within the home network)
+- Oracle Virtual-Box for virtualisation (running virtual machines within the home network, in my sparetime) 
